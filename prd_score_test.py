@@ -1,5 +1,5 @@
 # coding=utf-8
-# Taken from https://github.com/google/compare_gan/blob/master/compare_gan/src/prd_score_test.py
+# Taken from https://github.com/google/compare_gan/blob/master/compare_gan/metrics/prd_score_test.py
 # Copyright 2018 Google LLC & Hwalsuk Lee.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");

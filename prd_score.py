@@ -1,6 +1,6 @@
 # coding=utf-8
 # Taken from:
-# https://github.com/google/compare_gan/blob/master/compare_gan/src/prd_score.py
+# https://github.com/google/compare_gan/blob/master/compare_gan/metrics/prd_score.py
 #
 # Changes:
 #   - default dpi changed from 150 to 300
